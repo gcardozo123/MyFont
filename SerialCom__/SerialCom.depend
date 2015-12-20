@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1427739757 source:c:\users\guilherme cardozo\dropbox\laca2015\serialcom\src\serialclass.cpp
+	"SerialClass.h"
+
+1427224730 c:\users\guilherme cardozo\dropbox\laca2015\serialcom\include\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1430848090 source:c:\users\guilherme cardozo\dropbox\laca2015\serialcom\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<string>
+	"SerialClass.h"
+	"Font.h"
+
+1430767826 source:c:\users\gcardozo\dropbox\laca2015\serialcom\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<string>
+	"SerialClass.h"
+	"Font.h"
+
+1427224730 c:\users\gcardozo\dropbox\laca2015\serialcom\include\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1427739757 source:c:\users\gcardozo\dropbox\laca2015\serialcom\src\serialclass.cpp
+	"SerialClass.h"
+
+1428423785 source:c:\users\guilherme cardozo\dropbox\laca2015\serialcom\src\iofile.cpp
+	"IOFile.h"
+	<iostream>
+	<sstream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+
+1428423762 c:\users\guilherme cardozo\dropbox\laca2015\serialcom\include\iofile.h
+	<iostream>
+	<fstream>
+	<string>
+	<memory>
+	<sstream>
+
+1427761818 source:c:\users\gcardozo\dropbox\laca2015\serialcom\src\iofile.cpp
+	"IOFile.h"
+	<iostream>
+	<sstream>
+	<string>
+	<stdlib.h>
+
+1427761828 c:\users\gcardozo\dropbox\laca2015\serialcom\include\iofile.h
+	<iostream>
+	<fstream>
+	<string>
+	<memory>
+	<sstream>
+
+1430837996 c:\users\guilherme cardozo\dropbox\laca2015\serialcom\include\font.h
+	<string>
+	<fstream>
+	"SerialClass.h"
+
+1430848376 source:c:\users\guilherme cardozo\dropbox\laca2015\serialcom\src\font.cpp
+	<iostream>
+	"Font.h"
+	<string>
+	<sstream>
+	<windows.h>
+
+1430768113 source:c:\users\gcardozo\dropbox\laca2015\serialcom\src\font.cpp
+	<iostream>
+	"Font.h"
+	<string>
+	<sstream>
+	<windows.h>
+
+1430837996 c:\users\gcardozo\dropbox\laca2015\serialcom\include\font.h
+	<string>
+	<fstream>
+	"SerialClass.h"
+
+1430853521 source:c:\users\guilherme cardozo\dropbox\laca2015\serialcom__\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<string>
+	"SerialClass.h"
+	"Font.h"
+
+1427224730 c:\users\guilherme cardozo\dropbox\laca2015\serialcom__\include\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1430837996 c:\users\guilherme cardozo\dropbox\laca2015\serialcom__\include\font.h
+	<string>
+	<fstream>
+	"SerialClass.h"
+
+1430853613 source:c:\users\guilherme cardozo\dropbox\laca2015\serialcom__\src\font.cpp
+	<iostream>
+	"Font.h"
+	<string>
+	<sstream>
+	<windows.h>
+
+1427739757 source:c:\users\guilherme cardozo\dropbox\laca2015\serialcom__\src\serialclass.cpp
+	"SerialClass.h"
+
+1449623633 source:c:\users\gcardozo\desktop\tcc_stuff\serialcom__\main.cpp
+	<iostream>
+	<stdio.h>
+	<tchar.h>
+	<string>
+	"SerialClass.h"
+	"Font.h"
+
+1427228330 c:\users\gcardozo\desktop\tcc_stuff\serialcom__\include\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1448055781 c:\users\gcardozo\desktop\tcc_stuff\serialcom__\include\font.h
+	<string>
+	<fstream>
+	"SerialClass.h"
+
+1449623584 source:c:\users\gcardozo\desktop\tcc_stuff\serialcom__\src\font.cpp
+	<iostream>
+	"Font.h"
+	<string>
+	<sstream>
+	<windows.h>
+
+1427743357 source:c:\users\gcardozo\desktop\tcc_stuff\serialcom__\src\serialclass.cpp
+	"SerialClass.h"
+
+1450616409 source:c:\repos\myfont\serialcom__\src\font.cpp
+	<iostream>
+	"Font.h"
+	<string>
+	<sstream>
+	<windows.h>
+
+1448055781 c:\repos\myfont\serialcom__\include\font.h
+	<string>
+	<fstream>
+	"SerialClass.h"
+
+1427228330 c:\repos\myfont\serialcom__\include\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1427743357 source:c:\repos\myfont\serialcom__\src\serialclass.cpp
+	"SerialClass.h"
+
